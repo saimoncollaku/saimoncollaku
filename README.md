@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Design algorithms regarding autonomous mobility</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goal: enhancing autonomous and clean transportation through my work</p>
 
 ###
 
