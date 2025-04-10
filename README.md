@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Saimon Collaku and I'm a robotics student at ETH Zürich, from Italy!</p>
+<p align="left">My name is Saimon Collaku and I'm a robotics student at ETH Zürich!</p>
 
 ###
 
